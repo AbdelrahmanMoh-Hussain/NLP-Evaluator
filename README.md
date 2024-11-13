@@ -1,4 +1,5 @@
-# NLP-Evaluator ***NLP Article Analysis Tool***
+# NLP-Evaluator 
+## NLP Article Analysis Tool
 
 This project is a web tool that allows users to perform Natural Language Processing (NLP) on articles or blogs from other websites, using the MeaningCloud API to analyze and classify text content. This tool identifies whether the content is subjective or objective and analyzes the tone (positive, neutral, or negative).
 
